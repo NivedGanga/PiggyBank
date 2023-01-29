@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "138859797190",
+    "project_id": "piggybank-6e112",
+    "storage_bucket": "piggybank-6e112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138859797190:android:7987c830e543301c1c15c7",
+        "android_client_info": {
+          "package_name": "com.example.ieee_intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138859797190-vb171f3o1i753dnpmlkur8klue2ihnuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecANDc3acRM0cYqlauHiNTFoE30R3UXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138859797190-vb171f3o1i753dnpmlkur8klue2ihnuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138859797190-107pjo26tpd192c9o12qmg7vof1nkon5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ieeeIntern"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
