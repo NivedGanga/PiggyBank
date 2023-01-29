@@ -33,7 +33,7 @@ class MainmenuPage extends StatelessWidget {
                   children: [
                     SizedBox(height: 80),
                     Text(
-                      'Welcome back',
+                      'hello!!! Welcome back',
                       style: TextStyle(fontSize: 22, color: primaryColor),
                     ),
                     Text(
